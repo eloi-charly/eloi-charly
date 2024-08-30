@@ -1,7 +1,7 @@
-- 👋 Salut, je suis @eloi-charly
-- 👀 Je m'intéresse à la programmation avec PHP, ainsi qu'aux technologies web comme Symfony et Laravel.
-- 🌱 En ce moment, j'apprends davantage sur le développement avec React et l'optimisation des bases de données.
-- 💞️ Je cherche à collaborer sur des projets innovants en développement web et des applications backend.
-- 📫 Comment me contacter : [nandry556@gmail.com](mailto:nandry556@gmail.com) ou [herinandrianina-randriamihaingo](https://www.linkedin.com/in/tonprofil](https://www.linkedin.com/in/herinandrianina-randriamihaingo-566007254/)
-- 😄 Pronoms : il/lui
-- ⚡ Anecdote amusante : J'ai une passion pour les jeux de société et j'aime créer mes propres jeux !
+- 👋 Hi, I’m @eloi-charly
+- 👀 I’m interested in programming with PHP, as well as web technologies like Symfony and Laravel.
+- 🌱 I’m currently learning more about development with React and database optimization.
+- 💞️ I’m looking to collaborate on innovative web development projects and backend applications.
+- 📫 How to reach me: [nandry556@gmail.com](mailto:nandry556@gmail.com) or [herinandrianina-randriamihaingo](https://www.linkedin.com/in/herinandrianina-randriamihaingo-566007254/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I have a passion for board games and love creating my own!
