@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @eloi-charly
 - 👀 I’m interested in programming with PHP, as well as web technologies like Symfony and Laravel.
 - 🌱 I’m currently learning more about development with React and database optimization.
-- 💞️ I’m looking to collaborate on innovative web development projects and backend applications.
-- 📫 How to reach me: [nandry556@gmail.com](mailto:nandry556@gmail.com) or [herinandrianina-randriamihaingo](https://www.linkedin.com/in/herinandrianina-randriamihaingo-566007254/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have a passion for board games and love creating my own!
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malek-smida-ba58b9153/)](https://www.linkedin.com/in/maleksmida/)
