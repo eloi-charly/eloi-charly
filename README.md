@@ -1,11 +1,9 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malek.ssmida@gmail.com)](mailto:nandry556@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malek-smida-ba58b9153/)](https://www.linkedin.com/in/herinandrianina-randriamihaingo-566007254/)
 ## About me 
 - 👋 Hi, I’m @eloi-charly
 - 👀 I’m interested in programming with PHP, as well as web technologies like Symfony and Laravel.
-- 🌱 I’m currently learning more about development with React and database optimization.
+- 🌱 I’m currently learning more about development web and database optimization.
 
 <h2 align="left">I code with</h2>
 
@@ -24,8 +22,6 @@
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="bootstrap logo" />
 <img width="12" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo" />
-<img width="12" />
 <br/><br/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
 <img width="12" />
@@ -33,10 +29,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
-  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
  <img width="12" />
-
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="14" />
 </div>
