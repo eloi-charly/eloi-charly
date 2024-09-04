@@ -2,7 +2,27 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:malek.ssmida@gmail.com)](mailto:nandry556@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malek-smida-ba58b9153/)](https://www.linkedin.com/in/herinandrianina-randriamihaingo-566007254/)
-## Here 
+## About me 
 - 👋 Hi, I’m @eloi-charly
 - 👀 I’m interested in programming with PHP, as well as web technologies like Symfony and Laravel.
 - 🌱 I’m currently learning more about development with React and database optimization.
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/php-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+
