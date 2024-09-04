@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malek-smida-ba58b9153/)](https://www.linkedin.com/in/herinandrianina-randriamihaingo-566007254/)
 ## About me 
 - 👋 Hi, I’m @eloi-charly
-- 👀 I’m interested in programming with PHP, as well as web technologies like Symfony and Laravel.
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning more about development web and database optimization.
 
 <h2 align="left">I code with</h2>
@@ -22,7 +22,9 @@
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" alt="bootstrap logo" />
 <img width="12" />
-<br/><br/>
+
+####
+    
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
 <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="40" alt="symfony logo"  />
