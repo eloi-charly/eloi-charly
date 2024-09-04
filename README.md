@@ -2,8 +2,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malek-smida-ba58b9153/)](https://www.linkedin.com/in/herinandrianina-randriamihaingo-566007254/)
 ## About me 
 - 👋 Hi, I’m @eloi-charly
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning more about development web and database optimization.
+  - 📚 Passionate about programming and always eager to learn.
+- 🌱 Currently deepening my knowledge in web development and mastering database optimization.
+- 🎯 My goal is to build efficient, scalable applications while continuously improving my skills and staying motivated by the challenges in tech
 
 <h2 align="left">I code with</h2>
 
