@@ -25,6 +25,9 @@
 <img width="12" />
 
 ####
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="php logo" />
+<img width="12" />
 <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" height="40" alt="bootstrap logo" />
 <img width="12" />
    <img src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" height="40" alt="bootstrap logo" />
