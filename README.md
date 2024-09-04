@@ -2,7 +2,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/malek-smida-ba58b9153/)](https://www.linkedin.com/in/herinandrianina-randriamihaingo-566007254/)
 ## About me 
 - 👋 Hi, I’m @eloi-charly
--  📚 Passionatea about programming and always learning..
+-  📚 Passionate about programming and always learning..
 -  🌱  Exploring web development and database tuning.
 -  🎯  Driven to build efficient, scalable apps.
 
