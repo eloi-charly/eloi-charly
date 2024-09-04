@@ -3,8 +3,8 @@
 ## About me 
 - 👋 Hi, I’m @eloi-charly
   - 📚 Passionate about programming and always eager to learn.
-- 🌱 Currently deepening my knowledge in web development and mastering database optimization.
-- 🎯 My goal is to build efficient, scalable applications while continuously improving my skills and staying motivated by the challenges in tech
+  - 🌱 Currently deepening my knowledge in web development and mastering database optimization.
+  - 🎯 My goal is to build efficient, scalable applications while continuously improving my skills and staying motivated by the challenges in tech
 
 <h2 align="left">I code with</h2>
 
